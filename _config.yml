@@ -1,6 +1,13 @@
+# https://jekyll.github.io/jekyll-seo-tag/usage/
 title: Slate theme
 description: Slate is a theme for GitHub Pages.
 lang: de_DE
-theme: jekyll-theme-slate
-show_downloads: false
 google_analytics:
+
+# https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/
+theme: jekyll-theme-slate
+
+# https://jekyllrb.com/docs/variables/
+show_downloads: false
+
+# https://help.github.com/articles/repository-metadata-on-github-pages/#available-repository-metadata
