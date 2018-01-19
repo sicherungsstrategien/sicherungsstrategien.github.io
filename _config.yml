@@ -11,4 +11,8 @@ theme: jekyll-theme-slate
 # https://jekyllrb.com/docs/variables/
 show_downloads: false
 
+# https://developers.google.com/search/reference/robots_meta_tag
+# https://moz.com/learn/seo/robots-meta-directives
+disable_crawling: true
+
 # https://help.github.com/articles/repository-metadata-on-github-pages/#available-repository-metadata
