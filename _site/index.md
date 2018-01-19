@@ -1,4 +1,0 @@
----
-permalink: /
----
-Hallo Welt!
