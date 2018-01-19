@@ -1,3 +1,6 @@
+# https://jekyllrb.com/docs/permalinks/
+permalink: pretty
+
 # https://jekyll.github.io/jekyll-seo-tag/usage/
 title: Datensicherungsstrategien - Physikalische Aufbewahrung
 description: Konzepte für Privatnutzer zur sicheren Aufbewahrung ihrer Daten
