@@ -37,6 +37,7 @@ f&uuml;r Inhalte</h2>
   bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
 <p>Quelle: <a href="https://www.e-recht24.de">e-recht24.de</a></p>
 
+<h2>Amazon-Partnerprogramm</h2>
 <p>
  "[BITTE FÜGEN SIE IHREN NAMEN EIN] ist Teilnehmer des Partnerprogramms von Amazon Europe S.à.r.l. und Partner des Werbeprogramms, das zur Bereitstellung eines Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung von Werbeanzeigen und Links zu amazon.de Werbekostenerstattung verdient werden können."
 </p>
