@@ -3,7 +3,7 @@ title: Datenschutz
 permalink: /datenschutz/
 ---
 
-<p><strong>Datenschutzerklärung</strong></p>
+<h2><strong>Datenschutzerklärung</strong></h2>
 <p><strong>Geltungsbereich</strong></p>
 <p>Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter [HIER BITTE IHREN NAMEN, ADRESSE, EMAIL UND TELEFONNUMMER EINTRAGEN] auf dieser Website
   (im folgenden “Angebot”) auf.<br>
