@@ -1,7 +1,8 @@
 <!-- start custom head snippets -->
-<meta name="robots" content="noindex, nofollow">
-<meta name="AdsBot-Google" content="noindex, nofollow">
-
+{% if page.disable_crawling %}
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="AdsBot-Google" content="noindex, nofollow">
+{% endif %}
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
