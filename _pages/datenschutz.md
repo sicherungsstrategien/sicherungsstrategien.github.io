@@ -3,11 +3,11 @@ layout: single
 title: Datenschutzerklärung
 permalink: /datenschutz/
 disable_crawling: true
+toc: true
+toc_label: "Datenschutzerklärung"
+toc_icon: "cog"
 last_modified_at: 2018-01-21
 ---
-
-{% include base_path %}
-{% include toc %}
 
 ## Geltungsbereich
 
