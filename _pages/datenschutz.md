@@ -6,6 +6,9 @@ disable_crawling: true
 modified: 2018-01-21
 ---
 
+{% include base_path %}
+{% include toc %}
+
 ## Geltungsbereich
 
 Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter [HIER BITTE IHREN NAMEN, ADRESSE, EMAIL UND TELEFONNUMMER EINTRAGEN] auf dieser Website (im folgenden “Angebot”) auf.  
