@@ -2,6 +2,7 @@
 layout: single
 title: Datenschutz
 permalink: /datenschutz/
+disable_crawling: true
 ---
 
 <h2><strong>Datenschutzerklärung</strong></h2>
