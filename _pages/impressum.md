@@ -2,6 +2,7 @@
 layout: single
 title: Impressum
 permalink: /impressum/
+disable_crawling: true
 ---
 
 <h1>Impressum</h1>
