@@ -4,7 +4,7 @@ title: Datenschutzerklärung
 permalink: /datenschutz/
 disable_crawling: true
 toc: true
-toc_label: "Datenschutzerklärung"
+toc_label: ""
 toc_icon: "cog"
 last_modified_at: 2018-01-21
 ---
