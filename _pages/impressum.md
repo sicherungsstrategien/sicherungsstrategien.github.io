@@ -26,10 +26,8 @@ DE 999 999 999
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Beate Beispielhaft  
-Musterstraße 110  
-Gebäude 33  
-90210 Musterstadt
+Max Mustermann,
+Adresse wie oben
 
 ## Streitschlichtung
 
