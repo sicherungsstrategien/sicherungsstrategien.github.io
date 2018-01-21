@@ -3,7 +3,7 @@ layout: single
 title: Datenschutzerklärung
 permalink: /datenschutz/
 disable_crawling: true
-modified: 2018-01-21
+last_modified_at: 2018-01-21
 ---
 
 {% include base_path %}
