@@ -26,7 +26,7 @@ DE 999 999 999
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Max Mustermann
+Max Mustermann  
 Adresse wie oben
 
 ## Streitschlichtung
