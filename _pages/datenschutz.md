@@ -3,6 +3,7 @@ layout: single
 title: Datenschutzerklärung
 permalink: /datenschutz/
 disable_crawling: true
+modified: 2018-01-21
 ---
 
 ## Geltungsbereich
