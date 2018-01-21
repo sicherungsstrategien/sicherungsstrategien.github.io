@@ -5,8 +5,6 @@ permalink: /impressum/
 disable_crawling: true
 ---
 
-# Impressum
-
 ## Angaben gemäß § 5 TMG:
 
 Max Mustermann  
