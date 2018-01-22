@@ -14,6 +14,13 @@ search: false
 
 {% include figure image_path="/assets/images/ad99f6474f4cef142bc2f0b3990a3a02.png" alt="Angaben gemäß § 5 TMG" %}
 
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio controls>
+  <source src="{{ "/assets/audio/150bfb140da4531e60db808aacb10fe6.ogg" | absolute_url }}" type="audio/ogg">
+  <source src="{{ "/assets/audio/8868a4d1ce4e931ec8b1b748d94dde8a.mp3" | absolute_url }}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 ## Kontakt:
 
 Telefon: +49 (0) 123 44 55 66  
