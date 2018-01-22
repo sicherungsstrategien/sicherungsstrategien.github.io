@@ -17,7 +17,6 @@ Gebäude 44
 
 Telefon: +49 (0) 123 44 55 66  
 Telefax: +49 (0) 123 44 55 99  
-E-Mail: mustermann@musterfirma.de
 
 ## Umsatzsteuer:
 
@@ -28,6 +27,15 @@ DE 999 999 999
 
 Max Mustermann  
 Adresse wie oben
+
+## Barrierefreiheit
+
+Gleichstellungsgebot des Grundgesetzes „Niemand darf wegen seiner Behinderung benachteiligt werden“ (Art 3 Abs.3 GG)
+
+Impressum als Audio Datei für sehbehinderte und blinde Personen
+
+## E-Mail-Kontakt nach § 5 Nr. 2 TMG:
+impressum (ät) musterfirma . de
 
 ## Streitschlichtung
 
