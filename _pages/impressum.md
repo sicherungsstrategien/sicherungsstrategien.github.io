@@ -3,6 +3,10 @@ layout: single
 title: Impressum
 permalink: /impressum/
 disable_crawling: true
+toc: true
+toc_label: ""
+toc_icon: "cog"
+last_modified_at: 2018-01-22
 search: false
 ---
 
