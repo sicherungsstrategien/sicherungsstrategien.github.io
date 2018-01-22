@@ -36,7 +36,7 @@ Impressum als Audio Datei für sehbehinderte und blinde Personen
 
 ## E-Mail-Kontakt nach § 5 Nr. 2 TMG:
 impressum
-<span style="display:none;">-Entfernen Sie diesen Text-</span>
+<del style="display:none;">-Entfernen Sie diesen Text inklusive der Bindestriche am Anfang und Ende-</del>
 &#32;(ät)&#32;
 <span style="display:inline;">musterfirma&#32;.&#32;de</span>
 
