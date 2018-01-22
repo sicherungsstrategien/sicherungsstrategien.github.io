@@ -3,6 +3,7 @@ layout: single
 title: Impressum
 permalink: /impressum/
 disable_crawling: true
+search: false
 ---
 
 ## Angaben gemäß § 5 TMG:
