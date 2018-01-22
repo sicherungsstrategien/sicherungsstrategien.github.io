@@ -35,8 +35,10 @@ Gleichstellungsgebot des Grundgesetzes „Niemand darf wegen seiner Behinderung 
 Impressum als Audio Datei für sehbehinderte und blinde Personen
 
 ## E-Mail-Kontakt nach § 5 Nr. 2 TMG:
-impressum<span style="display:none;">-Entfernen Sie diesen Text-
-</span>(ät)<span style="display:inline;">musterfirma . de</span>
+impressum
+<span style="display:none;">-Entfernen Sie diesen Text-</span>
+&#32;(ät)&#32;
+<span style="display:inline;">musterfirma&#32;.&#32;de</span>
 
 ## Streitschlichtung
 
