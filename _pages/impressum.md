@@ -16,8 +16,15 @@ search: false
 
 ## Kontakt:
 
-Telefon: +49 (0) 123 44 55 66  
-Telefax: +49 (0) 123 44 55 99  
+{% include figure image_path="/assets/images/fd451cc948592db205c2e7d5b7a457d8.png" alt="Kontakt" %}
+
+Barrierefreie Audio-Datei für sehbehinderte und blinde Personen gemäß § 3 Abs. 3 GG:
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio controls>
+  <source src="{{ "/assets/audio/1e8e9f4128f6d66dc76895547dc9d24b.ogg" | absolute_url }}" type="audio/ogg">
+  <source src="{{ "/assets/audio/48e27c11a60aedeac7fff62de97b4df3.mp3" | absolute_url }}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## Umsatzsteuer:
 
