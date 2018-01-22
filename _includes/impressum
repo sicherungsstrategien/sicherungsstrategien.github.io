@@ -1,4 +1,4 @@
-{% include figure image_path="{{ include.image_path }}" alt="{{ include.alt }}" %}
+{% include figure image_path=include.image_path alt=include.alt %}
 
 Barrierefreie Audio-Datei für sehbehinderte und blinde Personen gemäß § 3 Abs. 3 GG:
 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
