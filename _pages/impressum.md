@@ -82,4 +82,4 @@ Quelle: [e-recht24.de](https://www.e-recht24.de)
 
 ## Amazon-Partnerprogramm
 
-"[BITTE FÜGEN SIE IHREN NAMEN EIN] ist Teilnehmer des Partnerprogramms von Amazon Europe S.à.r.l. und Partner des Werbeprogramms, das zur Bereitstellung eines Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung von Werbeanzeigen und Links zu amazon.de Werbekostenerstattung verdient werden können."
+__[{{ site.title }}]({{ site.url }})__ ist Teilnehmer des Partnerprogramms von Amazon Europe S.à.r.l., das zur Bereitstellung eines Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung von Werbeanzeigen und Links zu Amazon.de Werbekostenerstattung verdient werden kann.
