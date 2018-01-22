@@ -28,11 +28,9 @@ DE 999 999 999
 Max Mustermann  
 Adresse wie oben
 
-## Barrierefreiheit
+## Barrierefreiheit gemäß § 3 Abs. 3 GG:
 
-Gleichstellungsgebot des Grundgesetzes „Niemand darf wegen seiner Behinderung benachteiligt werden“ (Art 3 Abs.3 GG)
-
-Impressum als Audio Datei für sehbehinderte und blinde Personen
+Um das Gleichstellungsgebot des Grundgesetzes „Niemand darf wegen seiner Behinderung benachteiligt werden“ zu berücksichtigen, finden hier das Impressum als Audio Datei für sehbehinderte und blinde Personen.
 
 ## E-Mail-Kontakt nach § 5 Nr. 2 TMG:
 impressum
