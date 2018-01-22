@@ -11,8 +11,7 @@ last_modified_at: 2018-01-22
 
 ## Geltungsbereich
 
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter auf dieser Website (im folgenden “Angebot”) auf.  
-Die notwendigen Angaben über diesen Anbieter, wie bspw. seinen Namen und Kontaktadresse, finden Sie im [Impressum]({{ "/impressum/" | absolute_url }}) dieses Angebots.  
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter _(siehe Angaben gemäß § 5 TMG im [Impressum]({{ "/impressum/" | absolute_url }}))_ auf dieser Website (im folgenden “Angebot”) auf.  
 
 Die rechtlichen Grundlagen des Datenschutzes finden sich im Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).  
 
@@ -94,7 +93,8 @@ Die Nutzer können die Installation der Cookies durch eine entsprechende Einstel
 
 ## Amazon-Partnerprogramm
 
-__[{{ site.title }}]({{ site.url }})__ ist Teilnehmer des Partnerprogramms von Amazon EU, das zur Bereitstellung eines Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung von Werbeanzeigen und Links zu Amazon.de Werbekostenerstattung verdient werden kann. Amazon setzt Cookies ein, um die Herkunft der Bestellungen nachvollziehen zu können. Unter anderem kann Amazon erkennen, dass Sie den Partnerlink auf dieser Website geklickt haben. Weitere Informationen zur Datennutzung durch Amazon erhalten Sie in der Datenschutzerklärung des Unternehmens: http://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401
+__[{{ site.title }}]({{ site.url }})__ _(siehe Angaben gemäß § 5 TMG im [Impressum]({{ "/impressum/" | absolute_url }}))_ ist Teilnehmer des Partnerprogramms von Amazon Europe S.à.r.l., das zur Bereitstellung eines Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung von Werbeanzeigen und Links zu Amazon.de Werbekostenerstattung verdient werden kann.
+Amazon setzt Cookies ein, um die Herkunft der Bestellungen nachvollziehen zu können. Unter anderem kann Amazon erkennen, dass Sie den Partnerlink auf dieser Website geklickt haben. Weitere Informationen zur Datennutzung durch Amazon erhalten Sie in der Datenschutzerklärung des Unternehmens: http://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401
 
 ## Widerruf, Änderungen, Berichtigungen und Aktualisierungen
 
