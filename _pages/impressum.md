@@ -8,7 +8,6 @@ disable_crawling: true
 ## Angaben gemäß § 5 TMG:
 
 Max Mustermann  
-Musterladen (Einzelunternehmer)  
 Musterstraße 111  
 Gebäude 44  
 90210 Musterstadt
