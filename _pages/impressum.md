@@ -12,10 +12,7 @@ search: false
 
 ## Angaben gemäß § 5 TMG:
 
-Max Mustermann  
-Musterstraße 111  
-Gebäude 44  
-90210 Musterstadt
+{% include figure image_path="/assets/images/ad99f6474f4cef142bc2f0b3990a3a02.png" alt="Angaben gemäß § 5 TMG" %}
 
 ## Kontakt:
 
