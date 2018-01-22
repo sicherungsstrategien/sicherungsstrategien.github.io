@@ -12,14 +12,7 @@ search: false
 
 ## Angaben gemäß § 5 TMG:
 
-{% include figure image_path="/assets/images/ad99f6474f4cef142bc2f0b3990a3a02.png" alt="Angaben gemäß § 5 TMG" %}
-
-<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio controls>
-  <source src="{{ "/assets/audio/150bfb140da4531e60db808aacb10fe6.ogg" | absolute_url }}" type="audio/ogg">
-  <source src="{{ "/assets/audio/8868a4d1ce4e931ec8b1b748d94dde8a.mp3" | absolute_url }}" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+{% include 5tmg.html %}
 
 ## Kontakt:
 
@@ -33,18 +26,13 @@ DE 999 999 999
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Max Mustermann  
-Adresse wie oben
-
-## Barrierefreiheit gemäß § 3 Abs. 3 GG:
-
-Um das Gleichstellungsgebot des Grundgesetzes „Niemand darf wegen seiner Behinderung benachteiligt werden“ zu berücksichtigen, finden hier das Impressum als Audio Datei für sehbehinderte und blinde Personen.
+{% include 5tmg.html %}
 
 ## E-Mail-Kontakt nach § 5 Nr. 2 TMG:
 impressum
 <del style="display:none;">-Entfernen Sie diesen Text inklusive der Bindestriche am Anfang und Ende-</del>
 &#32;(ät)&#32;
-<span style="display:inline;">musterfirma&#32;.&#32;de</span>
+<span style="display:inline;">sicherungsstrategien&#32;.&#32;de</span>
 
 ## Streitschlichtung
 
