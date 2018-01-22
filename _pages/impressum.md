@@ -36,6 +36,19 @@ Unsere E-MailAdresse finden Sie oben im Impressum.
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
+## Adressverarbeitung
+
+Alle die auf dieser Webseite angegebenen Kontaktinformationen von Personen, inklusive etwaiger Fotos dienen ausdrücklich nur zu Informationszwecken bzw. zur Kontaktaufnahme. Sie dürfen insbesondere nicht für die Zusendung von Werbung, Spam und ähnliches genutzt werden. Einer werblichen Nutzung dieser Daten wird deshalb hiermit widersprochen. Sollten diese Informationen dennoch zu den vorstehend genannten Zwecken genutzt werden, behalten wir uns etwaige rechtliche Schritte vor.
+
+## Quellenangaben für die verwendeten Bilder und Grafiken
+
+* Icons:
+* Fonts:
+
+## Abmahnungsrechtlicher Hinweis
+
+Eine Verletzung von Schutzrechten Dritter oder eine Situation, die eine Aufforderung per anwaltlicher Abmahnung motivieren könnte, entspricht nicht dem mutmaßlichen Willen der Betreiber dieser Webseiten. In jedem Fall sichern wir die sofortige Behebung der Verletzung zu. Kosten einer Abmahnung oder einer anwaltlichen Beratung können wir daher als offenkundlich mißbräuchlich nicht übernehmen.
+
 ## Haftung für Inhalte
 
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
