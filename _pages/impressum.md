@@ -22,7 +22,7 @@ search: false
 
 UmsatzsteuerIdentifikationsnummer gemäß §27 a Umsatzsteuergesetz:  
 
-{% include impressum image_path="/assets/images/fd451cc948592db205c2e7d5b7a457d8.png" alt="Umsatzsteuer" ogg_path="/assets/audio/c0d756b2eaddbde761cecceb8f9002ea.ogg" mp3_path="/assets/audio/ed0592a8594d20906dd67f628637b510.mp3" %}
+{% include impressum image_path="/assets/images/20f894e8c3da651e99c1f40ee9b275b1.png" alt="Umsatzsteuer" ogg_path="/assets/audio/c0d756b2eaddbde761cecceb8f9002ea.ogg" mp3_path="/assets/audio/ed0592a8594d20906dd67f628637b510.mp3" %}
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
