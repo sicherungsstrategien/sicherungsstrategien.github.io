@@ -21,7 +21,8 @@ search: false
 ## Umsatzsteuer:
 
 UmsatzsteuerIdentifikationsnummer gemäß §27 a Umsatzsteuergesetz:  
-DE 999 999 999
+
+{% include impressum image_path="/assets/images/fd451cc948592db205c2e7d5b7a457d8.png" alt="Umsatzsteuer" ogg_path="/assets/audio/c0d756b2eaddbde761cecceb8f9002ea.ogg" mp3_path="/assets/audio/ed0592a8594d20906dd67f628637b510.mp3" %}
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
