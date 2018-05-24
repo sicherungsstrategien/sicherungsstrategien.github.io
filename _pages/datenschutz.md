@@ -6,7 +6,7 @@ disable_crawling: true
 toc: true
 toc_label: ""
 toc_icon: "cog"
-last_modified_at: 2018-01-22
+last_modified_at: 2018-05-24
 search: false
 ---
 
@@ -17,7 +17,7 @@ Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschri
 Der verantwortliche Anbieter hat als für die Verarbeitung Verantwortlicher zahlreiche technische und organisatorische Maßnahmen umgesetzt, um einen möglichst lückenlosen Schutz der über diese Internetseite verarbeiteten personenbezogenen Daten sicherzustellen. Dennoch können Internetbasierte Datenübertragungen grundsätzlich Sicherheitslücken aufweisen, sodass ein absoluter Schutz nicht gewährleistet werden kann. Aus diesem Grund steht es jeder betroffenen Person frei, personenbezogene Daten auch auf alternativen Wegen, beispielsweise telefonisch, an uns zu übermitteln.
 
 ## 1. Begriffsbestimmungen
-Die Datenschutzerklärung des verantwortlichen Anbieters beruht auf den Begrifflichkeiten, die durch den Europäischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerklärung soll sowohl für die Öffentlichkeit als auch für unsere Kunden und Geschäftspartner einfach lesbar und verständlich sein. Um dies zu gewährleisten, möchten wir vorab die verwendeten Begrifflichkeiten erläutern.</p>
+Die Datenschutzerklärung des verantwortlichen Anbieters beruht auf den Begrifflichkeiten, die durch den Europäischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerklärung soll sowohl für die Öffentlichkeit als auch für unsere Kunden und Geschäftspartner einfach lesbar und verständlich sein. Um dies zu gewährleisten, möchten wir vorab die verwendeten Begrifflichkeiten erläutern.
 
 Wir verwenden in dieser Datenschutzerklärung unter anderem die folgenden Begriffe:
 
@@ -64,12 +64,12 @@ Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitg
 
 {% include impressum image_path="/assets/images/fd451cc948592db205c2e7d5b7a457d8.png" alt="Kontakt" ogg_path="/assets/audio/1e8e9f4128f6d66dc76895547dc9d24b.ogg" mp3_path="/assets/audio/48e27c11a60aedeac7fff62de97b4df3.mp3" %}
 
-E-Mail: datenschutz
+<p>E-Mail: datenschutz
 <del style="display:none;">-Entfernen Sie diesen Text inklusive der Bindestriche am Anfang und Ende-</del>
 &#32;(ät)&#32;
-<span style="display:inline;">sicherungsstrategien&#32;.&#32;de</span>
+<span style="display:inline;">sicherungsstrategien&#32;.&#32;de</span></p>
 
-<p>Website: [{{ site.url }}]({{ site.url }})</p>
+<p>Website: {{ site.url }}</p>
 
 ## 3. Erfassung von allgemeinen Daten und Informationen
 Die Internetseite des verantwortlichen Anbieters erfasst mit jedem Aufruf der Internetseite durch eine betroffene Person oder ein automatisiertes System eine Reihe von allgemeinen Daten und Informationen. Diese allgemeinen Daten und Informationen werden in den Logfiles des Servers gespeichert. Erfasst werden können die (1) verwendeten Browsertypen und Versionen, (2) das vom zugreifenden System verwendete Betriebssystem, (3) die Internetseite, von welcher ein zugreifendes System auf unsere Internetseite gelangt (sogenannte Referrer), (4) die Unterwebseiten, welche über ein zugreifendes System auf unserer Internetseite angesteuert werden, (5) das Datum und die Uhrzeit eines Zugriffs auf die Internetseite, (6) eine Internet-Protokoll-Adresse (IP-Adresse), (7) der Internet-Service-Provider des zugreifenden Systems und (8) sonstige ähnliche Daten und Informationen, die der Gefahrenabwehr im Falle von Angriffen auf unsere informationstechnologischen Systeme dienen.
