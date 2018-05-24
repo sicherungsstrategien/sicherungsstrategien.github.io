@@ -6,7 +6,7 @@ disable_crawling: true
 toc: true
 toc_label: ""
 toc_icon: "cog"
-last_modified_at: 2018-01-22
+last_modified_at: 2018-05-24
 search: false
 ---
 
@@ -73,7 +73,3 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
 Quelle: [e-recht24.de](https://www.e-recht24.de)
-
-## Amazon-Partnerprogramm
-
-__[{{ site.title }}]({{ site.url }})__ _(siehe obige Angaben gemäß § 5 TMG)_ ist Teilnehmer des Partnerprogramms von Amazon Europe S.à.r.l., das zur Bereitstellung eines Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung von Werbeanzeigen und Links zu Amazon.de Werbekostenerstattung verdient werden kann.
