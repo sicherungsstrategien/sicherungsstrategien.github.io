@@ -192,5 +192,17 @@ Vor einer Bereitstellung personenbezogener Daten durch den Betroffenen muss sich
 ## 10. Bestehen einer automatisierten Entscheidungsfindung
 Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
 
-Diese Muster Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die <a href="https://dg-datenschutz.de/datenschutz-dienstleistungen/datenschutz-audit/">Datenschutz-Audit</a> durchführt, in Kooperation mit der <a href="https://www.wbs-law.de/taetigkeitsgebiete/medienrecht/">Medienrechtskanzlei WILDE BEUGER SOLMECKE</a> erstellt.
+## 11. Content-Delivery-Network von Cloudflare
+Wir setzen ein "Content Delivery Network" (CDN) ein.  
+In diesem Fall wird es von Cloudflare, Inc. (101 Townsend St, San Francisco, CA 94107, USA) bereitgestellt. Cloudflare ist unter dem Privacy-Shield-Abkommen zertifiziert und garantiert somit, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&amp;status=Active).  
+  
+Ein CDN ist ein Netz regional verteilter und über das Internet verbundener Server, mit dem Inhalte – insbesondere große Mediendateien – ausgeliefert werden. Ein CDN stellt skalierende Speicher- und Auslieferungskapazitäten zur Verfügung und gewährleistet auch bei großen Lastspitzen einen optimalen Datendurchsatz.  
+Die Verarbeitung der Daten der Nutzer erfolgt alleine zu den vorgenannten Zecken und der Aufrechterhaltung der Sicherheit und Funktionsfähigkeit des CDN.  
+  
+Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen, d.h. Interesse an einer sicheren und effizienten Bereitstellung, Analyse sowie Optimierung unseres Onlineangebotes gem. Art. 6 Abs. 1 lit. f. DSGVO.  
 
+Bitte beachten Sie für weitergehende Informationen Cloudflares Datenschutzerklärung: https://www.cloudflare.com/security-policy.
+
+## Verfasser
+
+Diese Muster Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die <a href="https://dg-datenschutz.de/datenschutz-dienstleistungen/datenschutz-audit/">Datenschutz-Audit</a> durchführt, in Kooperation mit der <a href="https://www.wbs-law.de/taetigkeitsgebiete/medienrecht/">Medienrechtskanzlei WILDE BEUGER SOLMECKE</a> erstellt und auf die konkreten Bedürfnisse eigenhändig angepasst.
